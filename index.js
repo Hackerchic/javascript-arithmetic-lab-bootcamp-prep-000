@@ -19,10 +19,8 @@ return a--
 function makeInt(n)
 return parseInt(n)
 }
-function base( b){
- var a = Math.floor(Math.random() * 1000)
-  var b = Math.floor(Math.random() * 1000)  
-  return
+function base(b){
+ return base(b)
 }
 
 function nan(, b){
