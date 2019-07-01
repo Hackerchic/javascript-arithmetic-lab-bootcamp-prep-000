@@ -16,7 +16,8 @@ return a++
 function dec(a)
 return a--
 }
-function makeInt(a)
+function makeInt(n)
+return parseInt(n)
 }
 function base( b){
  var a = Math.floor(Math.random() * 1000)
