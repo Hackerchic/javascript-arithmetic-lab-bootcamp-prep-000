@@ -29,10 +29,8 @@ function nan(, b){
  var b = Math.floor(Math.random() * 1000)  
   return
   
-function preserve(, b){
-  var a = Math.floor(Math.random() * 1000)
-  var b = Math.floor(Math.random() * 1000)
-  return
+function preserve(n){
+  return n
 function nan(, b){
  var a = Math.floor(Math.random() * 1000)
  var b = Math.floor(Math.random() * 1000) 
