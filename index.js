@@ -22,7 +22,7 @@ return parseInt(n)}
 makeInt()
 
 function base(b){
- return makeInt(b)}
+ return makeInt(b=10)}
 
 function nan(, b){
  var a = Math.floor(Math.random() * 1000)
