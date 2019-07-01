@@ -20,7 +20,7 @@ function makeInt(n)
 return parseInt(n)
 }
 function base(b){
- return base(b)
+ return makeInt(b==0)
 }
 
 function nan(, b){
