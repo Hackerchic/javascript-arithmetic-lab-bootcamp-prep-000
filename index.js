@@ -19,10 +19,6 @@ return a--
 function makeInt(n){
 return parseInt(n)}
 
-makeInt()
-
-function base(b){
- return makeInt(b=10)}
   
 function preserveDecimbal(n){
 return parseFloat(n)}
