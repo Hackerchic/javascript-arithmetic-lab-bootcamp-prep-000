@@ -24,15 +24,8 @@ makeInt()
 function base(b){
  return makeInt(b=10)}
 
-function nan(, b){
- var a = Math.floor(Math.random() * 1000)
- var b = Math.floor(Math.random() * 1000)  
-  return
+
   
 function preserve(n)
-  return parseFloat(n)
+return parseFloat(n)
   
-function nan(, b){
- var a = Math.floor(Math.random() * 1000)
- var b = Math.floor(Math.random() * 1000) 
-  return
