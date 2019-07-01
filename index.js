@@ -20,6 +20,7 @@ function makeInt(n)
 return parseInt(n)
 }
 function base(b){
+ var b == 10
  return makeInt(b==0)
 }
 
