@@ -13,15 +13,15 @@ return a/b
 function inc(a){
 return a++
 }
-function dec(a)
+function dec(a){
 return a--
 }
-function makeInt(n)
+function makeInt(n){
 return parseInt(n)
-}
+
 function base(b){
  var b == 10
- return makeInt(b==0)
+ return makeInt(b==0)}
 }
 
 function nan(, b){
