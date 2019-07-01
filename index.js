@@ -1,12 +1,12 @@
 function add(a, b){
  var a = Math.floor(Math.random() * 1000)
- varb = Math.floor(Math.random() * 1000)
-  return
+ var b = Math.floor(Math.random() * 1000)
+ return a + b
 }
 function subtract(a, b){
  var a = Math.floor(Math.random() * 1000)
  var b = Math.floor(Math.random() * 1000)  
-  return
+  return a - 
 
 }
 function multiply(a, b){
