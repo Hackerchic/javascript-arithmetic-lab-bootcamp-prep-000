@@ -23,9 +23,7 @@ makeInt()
 
 function base(b){
  return makeInt(b=10)}
-
-
   
-function preserve(n)
-return parseFloat(n)
+function preserveDecimbal(n){
+return parseFloat(n)}
   
