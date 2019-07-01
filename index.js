@@ -12,9 +12,11 @@ return a/b
 }
 function inc(n){
 number = n++
+return number
 }
 function dec(n){
-return n--
+number = n--
+return number
 }
 function makeInt(n){
 return parseInt(n,10)}
