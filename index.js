@@ -10,13 +10,11 @@ return a*b
 function divide(a, b){
 return a/b
 }
-function increment(a, b){
- 
+function increment(a){
+return a++
 }
-function decrement(a--b){
-var a = Math.floor(Math.random() * 1000)
- var b = Math.floor(Math.random() * 1000)  
-  return
+function decrement(a)
+return a--
 }
 function int(parseInt(a) + parseInt(b){
   var a = Math.floor(Math.random() * 1000)
